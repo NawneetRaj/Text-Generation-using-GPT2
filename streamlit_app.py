@@ -1,4 +1,4 @@
-!pip install transformers
+pip install transformers
 
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 import torch
